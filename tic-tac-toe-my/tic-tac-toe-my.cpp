@@ -10,14 +10,14 @@ void tableF(char board1[3][3], char board2[3][3], char board3[3][3]) {
     std::cout << "   1    \t   2    \t   3" << std::endl;
 
     for (int row = 0; row < 3; row++) {
-        // Satırları yazdır
+        
         std::cout
             << board1[row][0] << " | " << board1[row][1] << "| " << board1[row][2] << "\t"
             << board2[row][0] << " | " << board2[row][1] << "| " << board2[row][2] << "\t"
             << board3[row][0] << " | " << board3[row][1] << "| " << board3[row][2] << std::endl;
 
-        // Alt çizgiler
-        if (row < 2) { // son satır için alt çizgi koyma
+        
+        if (row < 2) { 
             std::cout
                 << "__|__|__\t__|__|__\t__|__|__" << std::endl;
         }
@@ -105,7 +105,7 @@ void checkWinner(char winners[3], char (*boards[3])[3]) {
                 hasWinner = true;
             }
 
-            // Sadece kazanan varsa yazdır
+            // write the winner
             if (hasWinner) {
                 std::cout << "Player " << winners[i] << " is the winner of game " << i + 1 << "." << std::endl;
             }
