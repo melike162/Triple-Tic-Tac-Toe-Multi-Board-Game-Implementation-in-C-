@@ -140,7 +140,7 @@ int main()
     int winnerNumber = 0;
     char winners[3] = { ' ', ' ', ' ' };
 
-    while (winnerNumber <3) {//// Game loop: iterate through all boards, take moves sequentially, and check for winners
+    while (winnerNumber <3) {// Game loop: iterate through all boards, take moves sequentially, and check for winners
         winnerNumber = 0;
 
         Pair(*currentArray)[3] = (currentPlayer == playerX) ? &lx[0] : &ly[0];
