@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melik\\Desktop\\c\u002B\u002B \u00E7al\u0131\u015Fma\\tic-tac-toe-my\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D8694C-AB86-42E8-9214-252456D003E6}|tic-tac-toe-my\\tic-tac-toe-my.vcxproj|C:\\Users\\melik\\Desktop\\c\u002B\u002B \u00E7al\u0131\u015Fma\\tic-tac-toe-my\\tic-tac-toe-my\\tic-tac-toe-my.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1D8694C-AB86-42E8-9214-252456D003E6}|tic-tac-toe-my\\tic-tac-toe-my.vcxproj|solutionrelative:tic-tac-toe-my\\tic-tac-toe-my.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tic-tac-toe-my.cpp",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\c\u002B\u002B \u00E7al\u0131\u015Fma\\tic-tac-toe-my\\tic-tac-toe-my\\tic-tac-toe-my.cpp",
+              "RelativeDocumentMoniker": "tic-tac-toe-my\\tic-tac-toe-my.cpp",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\c\u002B\u002B \u00E7al\u0131\u015Fma\\tic-tac-toe-my\\tic-tac-toe-my\\tic-tac-toe-my.cpp",
+              "RelativeToolTip": "tic-tac-toe-my\\tic-tac-toe-my.cpp",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAmwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-12T14:20:12.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
